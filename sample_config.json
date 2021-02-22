@@ -1,0 +1,14 @@
+{
+    "secrect": {
+        "SESSDATA": "SESSDATA",
+        "CSRF": "CSRF"
+    },
+    "user": [{
+            "uid": 114514,
+            "name": [
+                "可填入多种称呼",
+                "a"
+            ]
+        }
+    ]
+}
